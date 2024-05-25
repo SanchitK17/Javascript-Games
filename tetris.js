@@ -1,10 +1,6 @@
 /*
-Author: Simon Laroche
-Site: http://simon.lc/
-Demo: http://simon.lc/tetr.js
+Author: Sanchit Karakoti
 
-Note: Before looking at this code, it would be wise to do a bit of reading about
-the game so you know why some things are done a certain way.
 */
 'use strict';
 
